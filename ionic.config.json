@@ -1,0 +1,7 @@
+{
+  "name": "stripe-ionic7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
